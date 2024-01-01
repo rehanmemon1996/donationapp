@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507965985282",
+    "project_id": "reactnative-88b92",
+    "storage_bucket": "reactnative-88b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507965985282:android:9f21c8d017e58280ebcd1b",
+        "android_client_info": {
+          "package_name": "com.firstreactapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgi1E509oSjJYSB7X_gf6VsSuhr_FZ1-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
